@@ -1,0 +1,882 @@
+#underli:link {}
+
+#underli:visited {
+  text-decoration: none;
+}
+
+#underli:hover {
+
+
+
+  border-bottom: solid thin #1d99c2;
+
+
+
+
+
+}
+
+#underli:active {
+  text-decoration: underline;
+  color: rgb(89, 155, 197);
+}
+
+#secbtn:hover {
+  background-color: red;
+
+}
+
+hr {
+  margin: 1rem 0;
+  color: inherit;
+  background-color: white;
+  border: 0;
+  opacity: 1;
+}
+
+.text-underline-hover {
+  text-decoration: none;
+}
+
+.text-underline-hover:hover {
+  text-decoration: underline;
+
+}
+
+.dooper-underline-hover:hover {
+  background-color: black;
+  color: black;
+}
+
+a:hover {
+
+  text-decoration: none;
+
+
+}
+
+button:hover {
+
+  /* border:solid thin red ; */
+
+
+}
+
+.vl {
+  border-left: 1px solid rgb(196, 196, 196);
+  height: 25px;
+}
+
+.nav1bg {
+  background-color: #fefbf8;
+
+}
+
+.bwedd {
+  font-size: 13px;
+}
+
+.aubc {
+  color: rgb(156, 156, 156);
+}
+
+.detailcolor {
+  color: #338099;
+}
+
+.nav1styling {
+  border: #efeeed;
+  font-size: 13px;
+  color: #595959;
+  letter-spacing: 1px;
+  margin-left: 0.1rem;
+  margin-top: -0.5rem;
+}
+
+.avstyling {
+  color: #5c5c5f;
+  font-family: Avenir Book, sans-serif;
+  font-size: 13px;
+  margin-top: -0.5rem;
+  margin-right: 1.2rem;
+}
+
+.wedpo {
+  margin-top: -0.5rem;
+  margin-right: 0.6rem;
+}
+
+.terrianpo {
+  margin-top: -0.5rem;
+  margin-right: 2.0rem;
+}
+
+.lagbtnst1 {
+  background-color: #fefbf8;
+  margin-top: -0.7rem;
+  margin-right: 0.2rem;
+  color: #338099;
+  font-size: 12px;
+  color: #338099;
+  font-family: Verdana, sans-serif;
+}
+
+.tregisterybtn {
+
+  background-color: #fefbf8;
+  border: none;
+  ;
+  margin-top: -0.5rem;
+  margin-right: -0.3rem;
+  color: #338099;
+  font-size: 12px;
+  color: #338099;
+  font-family: Verdana, sans-serif;
+}
+
+.lodsinbtn {
+  background-color: #fefbf8;
+  border: none;
+  margin-top: -0.4rem;
+  margin-right: 0.8rem;
+  color: #338099;
+  font-size: 12px;
+  color: #338099;
+  font-family: Verdana, sans-serif;
+}
+
+.smANTHROPOLOGIE {
+  background-color: white;
+  border-top: rgb(89, 155, 197) solid;
+  border-left: rgb(211, 211, 211) solid thin;
+  border-right: rgb(211, 211, 211) solid thin;
+  border-bottom: rgb(211, 211, 211) solid thin;
+  width: 185px;
+  height: 65px;
+  font-family: Didot;
+  letter-spacing: 0px;
+  font-weight: bold;
+  color: black;
+  padding: 3px;
+  padding: 20px;
+}
+
+.anthrosm {
+  background-color: white;
+  border-top: rgb(250, 250, 250) solid;
+  border-left: rgb(211, 211, 211) solid thin;
+  border-right: rgb(211, 211, 211) solid thin;
+  border-bottom: rgb(211, 211, 211) solid thin;
+  width: 185px;
+  height: 65px;
+  font-family: Courier;
+  letter-spacing: 0px;
+  ;
+  color: black;
+  padding: 3px;
+  padding: 20px;
+  font-size: 13px;
+  color: #595959;
+}
+
+.livingsm {
+  font-family: Brush Script MT;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-weight: 10;
+  color: #595959;
+}
+
+.formb1 {
+  margin-left: 5rem;
+ 
+}
+
+.formb {
+  width: 360px;
+  height: 50px;
+  color: rgb(89, 155, 197);
+  padding: 5px;
+  font-family: Avenir Book, sans-serif;
+}
+
+.formcon1 {
+  letter-spacing: 1px;
+  border-right: none;
+  font-size: 10px;
+  color: rgb(89, 155, 197);
+  border: solid thin rgb(232, 229, 229);
+  height: 45px;
+  margin-left: -1rem;
+}
+
+.formbtn {
+  width: 60px;
+  border: none;
+  color: #167a92;
+}
+
+.sndbtn {
+  border: none;
+  background-color: white;
+  margin-right: 4rem;
+  font-size: 20px;
+  color: #167a92;
+}
+
+.nav2btn {
+
+  margin-top: -0.4rem;
+  margin-left: -1.3rem;
+  background-color: white;
+  border-top: rgb(89, 155, 197) solid;
+  border-left: rgb(211, 211, 211) solid thin;
+  border-right: rgb(211, 211, 211) solid thin;
+  border-bottom: rgb(211, 211, 211) solid thin;
+  width: 210px;
+  height: 60px;
+  font-family: Didot;
+  letter-spacing: 3px;
+  font-weight: bold;
+  color: black;
+  padding: 3px;
+  padding: 20px;
+  border-bottom: none;
+}
+
+.anthrobtn2 {
+  background-color: white;
+  border-top: rgb(250, 250, 250) solid;
+  border-left: rgb(211, 211, 211) solid thin;
+  border-right: rgb(211, 211, 211) solid thin;
+  border-bottom: rgb(211, 211, 211) solid thin;
+  width: 185px;
+  height: 57px;
+  font-family: Courier;
+  letter-spacing: 3px;
+  ;
+  color: black;
+  padding: 3px;
+  padding: 20px;
+  font-size: 13px;
+  border-bottom: none;
+}
+
+.livingbtn {
+  font-family: Brush Script MT;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-weight: 10;
+  margin-left: 0.2rem;
+}
+
+.homebtn2 {
+  margin-left: 0.5rem;
+}
+
+.searchbar2 {
+  width: 200px;
+  height: 40px;
+  color: rgb(89, 155, 197);
+  padding: 5px;
+  font-family: Avenir Book, sans-serif;
+}
+
+.sinput2 {
+  margin-top: -0.7rem;
+  margin-left: -1.5rem;
+  letter-spacing: 2px;
+  border-right: none;
+  font-size: 12px;
+  width: 2%;
+  color: rgb(89, 155, 197);
+  border: solid thin rgb(232, 229, 229);
+}
+
+.sbtn2 {
+  border: solid thin rgb(232, 229, 229);
+  border-left: none;
+  margin-right: -1rem;
+  margin-top: -0.7rem;
+}
+
+.siconcolor {
+  color: #167a92;
+}
+
+.cartnav2 {
+  border: none;
+  background: none;
+  margin-top: -1.2rem;
+  margin-right: -0.9rem;
+  font-size: 20px;
+  color: #167a92;
+}
+
+.menubarcolor {
+  
+  border: solid thin #dedcdc;
+  border-left: none;
+  border-right: none;
+}
+
+.menub {
+  color: solid #595959 thin;
+}
+
+.mhome {
+  font-size: 13px;
+  margin-top: -0.4rem;
+  margin-left: -0.3rem;
+}
+
+.mgift {
+  font-size: 13px;
+  margin-top: -0.4rem;
+  margin-left: 0.56rem;
+}
+
+.mdresses {
+  font-size: 13px;
+  margin-top: -0.4rem;
+  margin-left: 0.52rem;
+}
+
+.mclothing {
+  font-size: 13px;
+  margin-top: -0.4rem;
+  margin-left: 0.52rem;
+}
+
+.mshoes {
+  font-size: 13px;
+  margin-top: -0.4rem;
+  margin-left: 0.27rem;
+}
+
+.maccess {
+  font-size: 13px;
+  margin-top: -0.4rem;
+  margin-left: 0.1.5rem;
+}
+
+.mfur {
+  font-size: 13px;
+  margin-top: -0.4rem;
+  margin-left: 0.52rem;
+}
+
+.mbea {
+  font-size: 13px;
+  margin-top: -0.4rem;
+  margin-left: -0.1rem;
+}
+
+.mgarden {
+  font-size: 13px;
+  margin-top: -0.4rem;
+  margin-left: 0.6rem;
+}
+
+.mwed {
+  font-size: 13px;
+  ;
+  margin-top: -0.4rem;
+  margin-left: -0.1rem;
+}
+
+.msale {
+  font-size: 13px;
+  ;
+  margin-top: -0.3rem;
+  margin-left: 0.6rem;
+}
+
+.mbline {
+  color: #bab7b7;
+}
+
+.i1 {
+  margin-left: 0.8rem;
+ 
+  margin-top: 0.3rem;
+}
+
+.t1 {
+  font-family: Avenir Book, sans-serif;
+  color: #6c6c6c;
+  font-weight: lighter;
+  font-size: 14px;
+  margin-top: -0.5rem;
+  margin-left: 0.9rem;
+}
+
+.t2 {
+  font-family: Avenir Book, sans-serif;
+  font-size: 13px;
+  color: #167a92;
+  margin-top: -0.45rem;
+  margin-left: 0.8rem;
+}
+
+.i2 {
+  margin-left: 0.8rem;
+ 
+}
+
+.t3 {
+  font-size: 13px;
+  color: #167a92;
+ 
+}
+
+.if {
+  margin-left: 0.3rem;
+ 
+}
+
+.tshop {
+  font-size: 13px;
+  color: #167a92;
+  
+
+}
+
+.iglass {
+  
+}
+
+.tcheers {
+  font-size: 15px;
+  color: rgb(111, 55, 55);
+  margin-left: 0.9rem;
+  margin-top: -0.6rem;
+}
+
+.trise {
+  font-size: 13px;
+  color: #167a92;
+  margin-left: 0.2rem;
+}
+
+.tmix {
+  font-size: 13px;
+  color: #167a92;
+  margin-left: 0.65rem;
+  margin-top: -1rem;
+}
+
+.iw {
+  margin-left: -0.3rem;
+  margin-top: 0.3rem;
+}
+
+.tso {
+  font-family: Courier;
+  font-size: 22px;
+  color: #595959;
+  font-weight: light;
+  letter-spacing: -1px;
+  margin-top: -0.5rem;
+  
+}
+
+.tblue {
+  font-size: 14px;
+  color: #595959;
+  margin-top: -0.4rem;
+}
+
+.tbhl {
+  font-size: 13px;
+  color: #167a92;
+  margin-top: -0.5rem;
+  margin-left: -0.25rem;
+}
+
+.irr {
+  margin-left: -0.3rem;
+  margin-top: 0.3rem;
+  width: 41rem;
+  height: 26.5rem;
+  margin-top: -0.3rem;
+}
+
+.tstor {
+  font-family: Courier;
+  ;
+  font-size: 23px;
+  color: #595959;
+  font-weight: light;
+  letter-spacing: -2px;
+  margin-top: -0.23rem;
+  margin-left: -0.3rem;
+}
+
+.tprint {
+  font-size: 14px;
+  color: #595959;
+  margin-top: -0.5rem;
+  margin-left: -0.1rem;
+}
+
+.tshort {
+  font-size: 13px;
+  color: #167a92;
+  margin-top: -0.6rem;
+}
+
+.ibla {
+  margin-left: -0.57rem;
+}
+
+.ttre {
+  font-family: Courier;
+  font-size: 22px;
+  color: #595959;
+  font-weight: light;
+  letter-spacing: -1px;
+  margin-left: -0.4rem;
+}
+
+.tsize {
+  font-size: 14px;
+  color: #595959;
+  margin-top: -0.4rem;
+  margin-left: -0.4rem;
+}
+
+.tss {
+  font-size: 13px;
+  color: #167a92;
+  margin-top: -0.5rem;
+  margin-left: -0.4rem;
+}
+
+.tso {
+  margin-left: -0.2rem;
+}
+
+.tmark {
+  font-family: Courier;
+  font-size: 22px;
+  color: #595959;
+  font-weight: light;
+  letter-spacing: -2px;
+}
+
+.tga {
+  font-size: 14px;
+  color: #595959
+}
+
+.tpo {
+  font-size: 13px;
+  color: #167a92
+}
+
+.tno {
+  font-size: 14px;
+  color: rgb(111, 55, 55);
+}
+
+.tsaa {
+  font-size: 13px;
+  color: #167a92;
+}
+
+.mte {
+  margin-top: 1rem;
+}
+
+.tmte {
+  font-family: Courier;
+  font-size: 22px;
+  color: #6c6c6c;
+  font-weight: 400;
+  letter-spacing: -1px;
+  margin-top: -0.1rem;
+}
+
+.bor2 {
+  border: solid thin #6c6c6c;
+  margin-top: -0.2rem;
+}
+
+.tgooJe {
+  font-family: Courier;
+  font-size: 22px;
+  color: #6c6c6c;
+  font-weight: 400;
+  letter-spacing: -2px;
+  margin-left: 0rem;
+  margin-top: -0.3rem;
+}
+
+.tpa {
+  font-size: 14px;
+  color: #6c6c6c;
+  margin-left: 0rem;
+  margin-top: -0.5rem;
+}
+
+.tfyf {
+  font-size: 13px;
+  color: #167a92;
+  margin-left: 0rem;
+}
+
+.cla {
+  font-family: Courier;
+  font-size: 22px;
+  color: #6c6c6c;
+  font-weight: 400;
+  letter-spacing: -2px;
+}
+
+.ta {
+  margin-left: 0.7rem;
+  margin-top: -2rem;
+}
+
+.topt {
+  font-size: 14px;
+  color: #6c6c6c;
+  margin-top: -0.8rem;
+  margin-left: 0.1rem;
+}
+
+.tjour {
+  font-size: 13px;
+  color: #167a92;
+}
+
+.tstor {
+  font-family: Courier;
+  font-size: 22px;
+  color: #6c6c6c;
+  font-weight: 400;
+  letter-spacing: -2px;
+  margin-left: -0rem;
+  margin-top: 1rem;
+}
+
+.t1fro {
+  font-size: 14px;
+  color: #6c6c6c;
+}
+
+.stc {
+  font-size: 13px;
+  color: #167a92
+}
+
+.tau {
+  font-size: 18px;
+  margin-left: 0.9rem;
+  margin-top: -0.4rem;
+}
+
+.tomaa {
+  font-size: 13px;
+  color: rgb(34, 34, 34);
+  margin-left: 0.9rem;
+}
+
+.trm {
+  font-size: 14px;
+  color: #167a92;
+  margin-left: 0.7rem;
+}
+
+.fooclass {
+  background-color: rgb(250, 250, 242);
+  border: solid thin rgb(221, 221, 212);
+}
+
+.signup {
+  font-family: Avenir Medium, sans-serif;
+  font-size: 18px;
+  margin-left: 0.4rem;
+  margin-top: -0.1rem;
+}
+
+.accesse {
+  font-family: Avenir Book, sans-serif;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: 6c6c6c;
+  margin-left: 0.3rem;
+}
+
+.eadd {
+  font-family: Avenir Medium, sans-serif;
+  font-size: 13px;
+  color: rgb(62, 57, 57);
+  margin-left: -0.8rem;
+  margin-top: -0.4rem;
+}
+
+.reci {
+  height: 45px;
+  width: 425px;
+  margin-top: -0.9rem;
+  margin-left: -1rem;
+  border: solid thin #6c6c6c;
+  background-color: #fafafa;
+}
+
+.sbtn {
+  height: 45px;
+  width: 127px;
+  margin-left: 20px;
+  margin-top: -1rem;
+}
+
+.plus {
+  font-family: Avenir Book, sans-serif;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: 6c6c6c;
+  margin-top: 1.3rem;
+  margin-left: -1rem;
+}
+
+.cb1 {
+  margin-left: -1rem;
+  background-color: rgb(101, 87, 87);
+}
+
+.cb2 {
+  background-color: rgb(101, 87, 87);
+  margin-left: 1.8rem;
+  margin-top: 0.5rem;
+}
+
+.tg {
+  font-size: 13px;
+  margin-left: 0.5rem;
+}
+
+.bsi {
+  font-size: 12px;
+  color: #595959;
+  margin-top: -2rem;
+}
+
+.pri {
+  color: #167a92;
+}
+
+.dsty {
+  color: rgb(187, 187, 187);
+  margin-left: -200px;
+}
+
+.thp {
+  color: #2f2e2e;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.sar {
+  color: #2f2e2e;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.rax {
+  color: #2f2e2e;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.ship {
+  color: #2f2e2e;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.slr1 {
+  color: #167a92;
+  font-size: 15px;
+}
+
+.insta {
+  font-size: 22px;
+  color: #167a92;
+}
+
+.coun {
+  color: #6c6c6c;
+  font-size: 12px;
+  font-weight: 200;
+  font-family: Avenir Book, sans-serif;
+}
+
+.sti {
+  color: #d5d5d5;
+}
+
+.poli {
+  color: #338099;
+  font-size: 12px;
+  font-weight: 200;
+  font-family: Avenir Book, sans-serif;
+}
+
+.ddsmi {
+  color: #090909;
+  font-size: 12px;
+  font-weight: 200;
+  font-family: Avenir Book, sans-serif;
+}
+
+.urbn {
+  color: #595959;
+  font-size: 12px;
+  font-weight: 200;
+  font-family: Avenir Book, sans-serif;
+}
+
+.martop {
+  margin-top: 15rem;
+}
+
+:root {
+  --div-height: 100%;
+  --bg-size: 100% 100%;
+
+}
+
+.center_div .top_div {
+  height: calc(var(--div-height) - 40vh);
+
+}
+
+.center_div .bottom_first_div {
+  height: calc(var(--div-height) - 50vh);
+}
+
+.center_div .bottom_sec_div {
+  height: calc(var(--div-height) - 40vh);
+}
+
+#underli2 {
+
+  color: #090909;
+}
+
+#underli2:hover {
+  color: #16a3c7;
+}
+
+#headerbutton {
+
+  color: #595959;
+}
+
+#headerbutton:hover {
+
+  color: #090909;
+}
